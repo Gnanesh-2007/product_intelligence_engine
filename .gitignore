@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# Output files (large generated files)
+output/
+*.xlsx
+*.csv
+
+# Keep demo data
+!data/
+!data/*.csv
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Streamlit
+.streamlit/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Temp files
+test_b64.txt
+part1.py
+part2.py
+make_all.py
+setup_maker.py
+step1_knowledge.py
+write_files.py
+generator.py
